@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate Engineer From India</h3>
+<h3 align="center">A passionate Engineering student from India</h3>
 
 - 🔭 I’m currently working on [Topology optimisation](https://github.com/Shantanu21285/Topology-Optimization-using-Machine-Learning-Deep-Learning)
 
